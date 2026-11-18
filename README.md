@@ -20,6 +20,12 @@
 </p>
 
 <p align="center">
+  <a href="https://ngtaiphat1501.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-ngtaiphat1501.github.io-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=06090e" alt="Live Portfolio" />
+  </a>
+</p>
+
+<p align="center">
   <a href="#about-me">About</a> &nbsp;•&nbsp;
   <a href="#coding-vibes--music">Music Vibes</a> &nbsp;•&nbsp;
   <a href="#tech-stack">Tech Stack</a> &nbsp;•&nbsp;
