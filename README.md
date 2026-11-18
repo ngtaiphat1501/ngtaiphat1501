@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Nguyễn Phát Tài
+# Nguyễn Phát Tài
 
 **Software Engineering Student @ FPT University (Cần Thơ)**  
 *Java Backend Architecture • Relational Databases • Scalable Web Systems*
@@ -8,7 +8,7 @@
 <br />
 
 <a href="https://github.com/ngtaiphat1501">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=95&lines=Java+Backend+%26+Systems+Architect;Turning+Coffee+%26+Lo-Fi+into+Clean+Code+%E2%98%95;Building+Scalable+Software+%F0%9F%9A%80;Exploring+Applied+AI+%26+Distributed+Systems+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=95&lines=Java+Backend+%26+Systems+Architect;Turning+Coffee+%26+Lo-Fi+into+Clean+Code+%E2%98%95;Building+Scalable+Software+%F0%9F%9A%80;Exploring+Applied+AI+%26+Distributed+Systems+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br />
@@ -20,76 +20,57 @@
 </p>
 
 <p align="center">
-  <a href="#-about-me">About</a> &nbsp;•&nbsp;
-  <a href="#-coding-vibes--music">Music Vibes</a> &nbsp;•&nbsp;
-  <a href="#-cyber-arsenal-tech-stack">Tech Stack</a> &nbsp;•&nbsp;
-  <a href="#-featured-systems">Projects</a> &nbsp;•&nbsp;
-  <a href="#-progression-roadmap">Roadmap</a> &nbsp;•&nbsp;
-  <a href="#-system-telemetry">Stats</a> &nbsp;•&nbsp;
-  <a href="#-connect">Connect</a>
+  <a href="#about-me">About</a> &nbsp;•&nbsp;
+  <a href="#coding-vibes--music">Music Vibes</a> &nbsp;•&nbsp;
+  <a href="#tech-stack">Tech Stack</a> &nbsp;•&nbsp;
+  <a href="#featured-systems">Projects</a> &nbsp;•&nbsp;
+  <a href="#progression-roadmap">Roadmap</a> &nbsp;•&nbsp;
+  <a href="#system-telemetry">Stats</a> &nbsp;•&nbsp;
+  <a href="#contact">Contact</a>
 </p>
 
 </div>
 
 ---
 
-### 🌸 About Me
+### About Me
 
-<table>
-  <tr>
-    <td width="72%" valign="middle">
-      <p>Xin chào! Mình là <b>Nguyễn Phát Tài</b>, sinh viên chuyên ngành <b>Kỹ thuật Phần mềm</b> tại <b>Đại học FPT Cần Thơ</b>.</p>
-      <ul>
-        <li>💻 <b>Chuyên môn chính:</b> Thiết kế kiến trúc Backend với <b>Java (Jakarta EE 10 / Spring)</b>, chuẩn hóa cơ sở dữ liệu quan hệ <b>MS SQL Server</b> và đóng gói môi trường triển khai <b>Docker</b>.</li>
-        <li>🎓 <b>Nền tảng học thuật:</b> Hoàn thành xuất sắc các đồ án thực hành Cấu trúc dữ liệu &amp; Giải thuật (CSD201), Cơ sở dữ liệu (DBI202) và Lập trình Web Java (PRJ301).</li>
-        <li>🚀 <b>Đang nghiên cứu &amp; mở rộng:</b> Spring Boot Microservices, RESTful API Security, quản trị máy chủ Linux / Nginx và CI/CD tự động hóa.</li>
-        <li>🔬 <b>Định hướng tương lai:</b> Hệ thống phân tích dữ liệu thông minh (Applied AI) và thuật toán hỗ trợ quyết định định lượng.</li>
-      </ul>
-    </td>
-    <td width="28%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="160" alt="Chibi Coder Girl" />
-      <br />
-      <sub><i>Keep coding, keep smiling ✨</i></sub>
-    </td>
-  </tr>
-</table>
+Xin chào! Mình là **Nguyễn Phát Tài**, sinh viên chuyên ngành **Kỹ thuật Phần mềm** tại **Đại học FPT Cần Thơ**.
+
+- **Chuyên môn chính:** Thiết kế kiến trúc Backend với **Java (Jakarta EE 10 / Spring)**, chuẩn hóa cơ sở dữ liệu quan hệ **MS SQL Server** và đóng gói môi trường triển khai **Docker**.
+- **Nền tảng học thuật:** Hoàn thành xuất sắc các đồ án thực hành Cấu trúc dữ liệu & Giải thuật (CSD201), Cơ sở dữ liệu (DBI202) và Lập trình Web Java (PRJ301).
+- **Đang nghiên cứu & mở rộng:** Spring Boot Microservices, RESTful API Security, quản trị máy chủ Linux / Nginx và CI/CD tự động hóa.
+- **Định hướng tương lai:** Hệ thống phân tích dữ liệu thông minh (Applied AI) và thuật toán hỗ trợ quyết định định lượng.
 
 ---
 
-### 🎧 Coding Vibes & Music
-
-<table>
-  <tr>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="140" alt="Anime Chibi Music" />
-    </td>
-    <td width="75%" valign="middle">
-      <h4>🎵 Currently Vibing To: Lo-Fi Coding Beats &amp; Anime OST</h4>
-      <p><i>"Turning caffeine, chill anime beats, and clean logic into scalable systems."</i></p>
-      
-      <a href="https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM" target="_blank">
-        <img src="https://img.shields.io/badge/Spotify-Coding%20Lo--Fi%20Session-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
-      </a>
-      &nbsp;
-      <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-Lofi%20Girl%20Radio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Lofi Girl Radio" />
-      </a>
-      
-      <br /><br />
-      <img src="https://spotify-badge.vercel.app/api/now-playing.svg" alt="Spotify Now Playing" width="100%" height="52" />
-      <br />
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="24" alt="Audio Equalizer Wave" />
-    </td>
-  </tr>
-</table>
-
----
-
-### ⚡ Cyber Arsenal (Tech Stack)
+### Coding Vibes & Music
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif" width="90" alt="Chibi Cat Peeking" />
+<p><i>"Turning caffeine, chill lo-fi beats, and clean logic into scalable systems."</i></p>
+
+<a href="https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM" target="_blank">
+  <img src="https://spotify-badge.vercel.app/api/now-playing.svg" alt="Spotify Now Playing" width="540" height="52" />
+</a>
+
+<br /><br />
+
+<a href="https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-Coding%20Lo--Fi%20Session-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+</a>
+&nbsp;
+<a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Lofi%20Girl%20Radio-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Lofi Girl Radio" />
+</a>
+
+</div>
+
+---
+
+### Tech Stack
+
+<div align="center">
 
 #### Languages & Core
 <a href="https://skillicons.dev">
@@ -124,7 +105,7 @@
 
 ---
 
-### 📌 Featured Systems
+### Featured Systems
 
 <div align="center">
   <a href="https://github.com/ngtaiphat1501/Ftech_learning_online">
@@ -149,7 +130,7 @@
 
 ---
 
-### 🗺️ Progression Roadmap
+### Progression Roadmap
 
 ```text
 [01. Java Core & Enterprise Systems] ➔ [02. Spring Boot & Microservices] ➔ [03. Cloud & DevOps] ➔ [04. AI & Quant Systems]
@@ -164,7 +145,7 @@
 
 ---
 
-### 📊 System Telemetry
+### System Telemetry
 
 <div align="center">
   <table border="0">
@@ -199,7 +180,7 @@
 
 ---
 
-### 👀 Profile Views
+### Profile Views
 
 <div align="center">
   <img src="https://count.getloli.com/@ngtaiphat1501?theme=booru-lewd" alt="Moe Counter" />
@@ -207,11 +188,9 @@
 
 ---
 
-### 📬 Connect With Me
+### Contact
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="130" alt="Chibi Goodbye" />
-  <br /><br />
   <a href="https://github.com/ngtaiphat1501" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-ngtaiphat1501-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
