@@ -1,61 +1,63 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,30&height=180&section=header&text=Nguyen%20Phat%20Tai&fontSize=42&fontColor=f0f6fc&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20%7C%20Java%20Backend%20%26%20Systems&descAlignY=58&descAlign=50" width="100%" />
 
-# Nguyen Phat Tai
+  <a href="https://github.com/ngtaiphat1501">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Software+Engineering+Student+%40+FPT+University;Java+Backend+%26+System+Architecture;Enterprise+Web+Apps+%E2%80%A2+Jakarta+EE+%E2%80%A2+Docker;Building+Practical%2C+Reliable+Software" alt="Typing SVG" />
+  </a>
 
-**Software Engineering Student @ FPT University · Java Backend & Systems**
+  <p align="center">
+    <img src="https://img.shields.io/badge/Location-Can%20Tho%2C%20Vietnam-161B22?style=flat-square&logo=googlemaps&logoColor=58A6FF" alt="Location" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-3FB950?style=flat-square&logo=githubactions&logoColor=white" alt="Status" />
+    <img src="https://komarev.com/ghpvc/?username=ngtaiphat1501&label=Profile%20Views&color=161B22&labelColor=0D1117&style=flat-square" alt="Profile Views" />
+  </p>
 
-<p>
-  <img src="https://img.shields.io/badge/Location-Can%20Tho%2C%20Vietnam-161B22?style=flat-square&labelColor=0D1117" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Java%20Backend%20%26%20Systems-2F81F7?style=flat-square&labelColor=0D1117" alt="Focus" />
-  <img src="https://komarev.com/ghpvc/?username=ngtaiphat1501&label=Views&color=161B22&labelColor=0D1117&style=flat-square" alt="Profile Views" />
-</p>
-
-<p>
-  <a href="#about">About</a> &nbsp;·&nbsp;
-  <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
-  <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
-  <a href="#roadmap">Roadmap</a> &nbsp;·&nbsp;
-  <a href="#github-stats">Stats</a> &nbsp;·&nbsp;
-  <a href="#connect">Connect</a>
-</p>
-
+  <p align="center">
+    <a href="#-about-me">About Me</a> &nbsp;•&nbsp;
+    <a href="#-tech-stack">Tech Stack</a> &nbsp;•&nbsp;
+    <a href="#-featured-projects">Featured Projects</a> &nbsp;•&nbsp;
+    <a href="#-engineering-roadmap">Roadmap</a> &nbsp;•&nbsp;
+    <a href="#-github-stats">GitHub Stats</a> &nbsp;•&nbsp;
+    <a href="#-connect">Connect</a>
+  </p>
 </div>
 
 ---
 
-## About
+### 👨‍💻 About Me
 
-- **Education:** B.Sc. in Software Engineering — **FPT University, Can Tho** <!-- UPDATE: Add years & GPA, e.g. `(2024 – 2028) · GPA: X.XX/4.0` -->
-- **Currently building with:** Java (Jakarta EE 10), Apache Tomcat, Microsoft SQL Server (T-SQL), Maven, and Docker Compose.
-- **Currently learning:** Spring Boot, REST API architecture, Linux/Nginx infrastructure, and CI/CD pipelines.
-- **Research interests:** Applied AI engineering, analytical software systems, predictive modeling, and quantitative research.
-<!-- UPDATE: Uncomment when actively applying for internships / roles
-- **Availability:** Open to Java Backend / Software Engineering Internship opportunities.
--->
+- 🎓 **Education:** Software Engineering Student at **FPT University — Can Tho Campus** <!-- UPDATE: Add years & GPA, e.g. `(2024 – 2028) · GPA: X.XX/4.0` -->
+- 💻 **Core Focus:** Java Backend Engineering, Relational Database Modeling, and Scalable Web Architecture.
+- ⚙️ **Current Production Stack:** Java (Jakarta EE 10), Apache Tomcat 10, Microsoft SQL Server 2022 (T-SQL), Maven, and Docker Compose.
+- 🚀 **Currently Exploring:** Spring Boot, Spring Security, Microservices Architecture, and CI/CD pipelines.
+- 🔬 **Research Interests:** Applied AI engineering, analytical systems, predictive modeling, and quantitative decision tools.
+- 💬 **Ask me about:** Java OOP design patterns, SQL Server schema optimization, Dockerizing Java runtimes, and university quiz platforms.
 
-<!-- UPDATE: Uncomment to add Internship / Work Experience
+<!-- UPDATE: Uncomment when you want to add Internship / Work Experience
 ---
 
-## Experience
+### 💼 Experience
 
-**Role Title** — Company Name (`Month YYYY – Month YYYY`)
-- Key backend, database, or infrastructure responsibility.
+**Role Title** — Company / Lab (`Month YYYY – Month YYYY`)
+- Key backend, database, or infrastructure contribution with measurable impact.
 -->
 
 ---
 
-## Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
+#### Languages & Core
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,py,cpp,html,css&theme=dark" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,py,cpp,html,css&theme=dark" alt="Languages and Core" />
 </a>
-<br />
+
+#### Databases & Infrastructure
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,nginx,maven,git&theme=dark" alt="Databases and DevOps" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,nginx,git&theme=dark" alt="Databases and Infrastructure" />
 </a>
-<br />
+
+#### Developer Environment
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=idea,vscode,postman,github,githubactions&theme=dark" alt="Developer Tools" />
 </a>
@@ -67,58 +69,44 @@
 <img src="https://img.shields.io/badge/Apache%20Tomcat-161B22?style=for-the-badge&logo=apachetomcat&logoColor=F0F6FC" alt="Apache Tomcat" />
 <img src="https://img.shields.io/badge/MS%20SQL%20Server-161B22?style=for-the-badge&logo=microsoftsqlserver&logoColor=58A6FF" alt="MS SQL Server" />
 <img src="https://img.shields.io/badge/Docker%20Compose-161B22?style=for-the-badge&logo=docker&logoColor=58A6FF" alt="Docker Compose" />
+<img src="https://img.shields.io/badge/Apache%20Maven-161B22?style=for-the-badge&logo=apachemaven&logoColor=F0F6FC" alt="Apache Maven" />
 
 <br />
 <br />
 
-<sub><b>Used in projects:</b> Java (JDK 11–21), Jakarta EE 10, Tomcat, MS SQL Server, Maven, Ant, Docker, HTML/CSS/JS, Git &nbsp;|&nbsp; <b>Learning / Exploring:</b> Spring Boot, Python, PostgreSQL, Linux, Nginx, CI/CD, AI &amp; Quant</sub>
+<sub><b>Production / Academic Projects:</b> Java (JDK 11–21), Jakarta EE 10, Apache Tomcat, MS SQL Server, Maven, Docker, HTML/CSS/JS, Git &nbsp;|&nbsp; <b>Active Learning:</b> Spring Boot, Python, PostgreSQL, Linux, Nginx, CI/CD</sub>
 
 </div>
 
 ---
 
-## Featured Projects
+### 📌 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ngtaiphat1501/Ftech_learning_online">Ftech_learning_online</a></h3>
-      <p><sub><b>Fullstack Developer</b> (Team of 5) · Oct – Nov 2026</sub></p>
-      <p>Full-stack E-Learning &amp; course commerce platform (LMS) built on Java Web MVC. Owned the Admin Dashboard, idempotent Cart/Checkout pipeline, Chart.js revenue analytics, and multi-stage Docker + SQL Server Compose stack.</p>
-      <p><code>Java 21</code> <code>Jakarta EE 10</code> <code>Tomcat</code> <code>SQL Server</code> <code>Maven</code> <code>Docker</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/ngtaiphat1501/StudentManagementSystem">StudentManagementSystem</a></h3>
-      <p><sub><b>Java Developer</b> (Team Project) · Mar 2026</sub></p>
-      <p>Console-based academic management system with a layered Java OOP architecture (<code>models</code>, <code>services</code>, <code>managers</code>, <code>menus</code>, <code>utils</code>), supporting 4 user roles over decoupled binary <code>.dat</code> file persistence.</p>
-      <p><code>Java OOP</code> <code>Layered CLI</code> <code>File I/O</code> <code>Ant</code></p>
-    </td>
-  </tr>
-</table>
-
-<details>
-<summary><b>CV Technical Breakdown (Click to expand)</b></summary>
+<div align="center">
+  <a href="https://github.com/ngtaiphat1501/Ftech_learning_online">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngtaiphat1501&repo=Ftech_learning_online&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=8" width="48%" alt="Ftech Learning Online" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ngtaiphat1501/StudentManagementSystem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngtaiphat1501&repo=StudentManagementSystem&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=8" width="48%" alt="Student Management System" />
+  </a>
+</div>
 
 <br />
 
-**1. [Ftech_learning_online](https://github.com/ngtaiphat1501/Ftech_learning_online)** — *Fullstack Developer (Team of 5) · Oct – Nov 2026*
-- Built the **Admin Dashboard**, **Cart & Checkout pipeline**, and **Order History / Revenue Analytics** (Chart.js) on Java Web MVC (Jakarta EE 10 / Servlets / JSP) and Apache Tomcat 10.1.
-- Implemented **idempotent order generation**, coupon validation, and VNPAY sandbox checkout flows to prevent duplicate transactions.
-- Containerized the runtime and database with a **multi-stage Dockerfile** (Maven + Temurin JDK 21 → Tomcat 10.1) and **Docker Compose** pairing Tomcat with Microsoft SQL Server 2022 (`healthcheck` + `LEARNORA_DB_URL` environment configuration).
-- Integrated Excel import/export via Apache POI and aligned five team modules onto a shared SQL Server schema.
+| Project | Role & Architecture | Highlights & Stack |
+| :--- | :--- | :--- |
+| **[Ftech_learning_online](https://github.com/ngtaiphat1501/Ftech_learning_online)** | **Fullstack Developer** (Team of 5)<br>PRJ301 Capstone (Oct – Nov 2026) | • Designed & built the **Admin Dashboard** and **Order History / Revenue Analytics** (Chart.js)<br>• Implemented **idempotent checkout generation**, coupon validation, and VNPAY sandbox flow<br>• Packaged runtime with **multi-stage Dockerfile** & Docker Compose linking SQL Server 2022<br>`Java 21` `Jakarta EE 10` `Tomcat` `SQL Server` `Maven` `Docker` |
+| **[StudentManagementSystem](https://github.com/ngtaiphat1501/StudentManagementSystem)** | **Java Developer** (Team Project)<br>Academic System (Mar 2026) | • Structured layered Java OOP architecture (`models`, `services`, `managers`, `menus`, `utils`)<br>• Implemented 4 role-based CLI menus (`Admin`, `Staff`, `Teacher`, `Student`)<br>• Decoupled domain models from binary file serialization (`.dat` file persistence)<br>`Java OOP` `Layered CLI` `File I/O` `Ant` |
 
-**2. [StudentManagementSystem](https://github.com/ngtaiphat1501/StudentManagementSystem)** — *Java Developer (Team Project) · Mar 2026*
-- Designed a layered Java OOP structure (`models`, `services`/`*Impl`, `managers`, `menus`, `utils`) covering students, courses, enrollments, grades, activities, and training scores.
-- Implemented four role-based console menus (`Admin`, `Staff`, `Teacher`, `Student`) isolated from binary `.dat` file persistence (`FileService`).
+<p align="right">
+  <sub><i>+ 25 private repositories covering coursework, university quiz tools, and algorithmic experiments.</i></sub>
+</p>
 
-<!-- UPDATE: Add new project entries here as you publish them -->
-
-</details>
-
-<!-- UPDATE: Uncomment to add Certifications & Languages
+<!-- UPDATE: Uncomment when you want to add Certifications & Languages
 ---
 
-## Certifications
+### 📜 Certifications & Languages
 
 - **Certification Name** — Issuer (`YYYY`)
 - **Languages:** Vietnamese (Native), English (Working Proficiency)
@@ -126,59 +114,73 @@
 
 ---
 
-## Roadmap
+### 🗺️ Engineering Roadmap
 
-| Stage | Track | Focus | Status |
-| :---: | :--- | :--- | :--- |
-| **01** | **Java Engineering** | Jakarta EE, OOP, Data Structures & Algorithms | Active |
-| **02** | **Spring Boot** | REST APIs, Spring Security, JPA / Hibernate | In Progress |
-| **03** | **DevOps & Infrastructure** | Docker, Linux, Nginx, CI/CD Pipelines | Next |
-| **04** | **AI & Quant Systems** | Applied AI, Predictive Modeling, Quantitative Research | Research |
+| Stage | Track | Focus Areas | Status |
+| :---: | :--- | :--- | :---: |
+| **01** | **Java Core & Enterprise Systems** | Jakarta EE 10, OOP Principles, Data Structures & Algorithms (CSD201) | ![Active](https://img.shields.io/badge/Active-3FB950?style=flat-square) |
+| **02** | **Spring Boot & Microservices** | RESTful APIs, Spring Security, JPA / Hibernate, Database Tuning | ![In Progress](https://img.shields.io/badge/In%20Progress-58A6FF?style=flat-square) |
+| **03** | **DevOps & Cloud Infrastructure** | Multi-stage Docker, Linux Server Administration, Nginx, GitHub Actions CI/CD | ![Up Next](https://img.shields.io/badge/Up%20Next-6E7681?style=flat-square) |
+| **04** | **Applied AI & Quantitative Systems** | Analytical Software, Predictive Modeling, Quantitative Decision Systems | ![Research](https://img.shields.io/badge/Research-8957E5?style=flat-square) |
 
 ---
 
-## GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ngtaiphat1501">
-    <img src="https://github-readme-stats.vercel.app/api?username=ngtaiphat1501&show_icons=true&count_private=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" height="170" alt="GitHub Stats" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ngtaiphat1501">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtaiphat1501&layout=compact&langs_count=6&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&border_radius=10" height="170" alt="Top Languages" />
-  </a>
-  <br />
-  <br />
-  <a href="https://github.com/ngtaiphat1501">
-    <img src="https://streak-stats.demolab.com?user=ngtaiphat1501&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=3fb950&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681&border_radius=10" width="76%" alt="GitHub Streak" />
-  </a>
-  <br />
-  <br />
-  <a href="https://github.com/ngtaiphat1501">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngtaiphat1501&bg_color=0d1117&color=8b949e&line=58a6ff&point=f0f6fc&area=true&area_color=1f6feb&hide_border=false&radius=10&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph" />
-  </a>
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/ngtaiphat1501">
+          <img src="https://github-readme-stats.vercel.app/api?username=ngtaiphat1501&show_icons=true&count_private=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" height="175" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/ngtaiphat1501">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtaiphat1501&layout=compact&langs_count=6&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&border_radius=10" height="175" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/ngtaiphat1501">
+          <img src="https://streak-stats.demolab.com?user=ngtaiphat1501&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=3fb950&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681&border_radius=10" width="100%" alt="GitHub Streak" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/ngtaiphat1501">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngtaiphat1501&bg_color=0d1117&color=8b949e&line=58a6ff&point=f0f6fc&area=true&area_color=1f6feb&hide_border=false&radius=10&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## Connect
+### 📬 Connect With Me
 
 <div align="center">
-  <a href="https://github.com/ngtaiphat1501">
+  <a href="https://github.com/ngtaiphat1501" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="GitHub" />
   </a>
-  <!-- UPDATE: Uncomment and replace with your verified links when ready
+  <!-- UPDATE: Uncomment and add your real contact details when ready
   &nbsp;
   <a href="mailto:your.email@domain.com">
     <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/your-handle">
+  <a href="https://linkedin.com/in/your-handle" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="./resume.pdf">
+  <a href="./resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume%20PDF-2F81F7?style=for-the-badge&logo=readthedocs&logoColor=F0F6FC" alt="Download CV" />
   </a>
   -->
+  <br />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=90&section=footer" width="100%" />
 </div>
