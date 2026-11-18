@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,30&height=180&section=header&text=Nguyen%20Phat%20Tai&fontSize=42&fontColor=f0f6fc&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20%7C%20Java%20Backend%20%26%20Systems&descAlignY=58&descAlign=50" width="100%" />
+  <img src="./assets/anime_banner.png" width="100%" alt="Nguyen Phat Tai — Anime Developer" />
+
+  <br />
+  <br />
 
   <a href="https://github.com/ngtaiphat1501">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Software+Engineering+Student+%40+FPT+University;Java+Backend+%26+System+Architecture;Enterprise+Web+Apps+%E2%80%A2+Jakarta+EE+%E2%80%A2+Docker;Vibing+with+Lo-Fi%2C+Anime+%26+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
@@ -35,11 +38,11 @@
         <li>⚙️ <b>Active Stack:</b> Java (Jakarta EE 10), Apache Tomcat 10, Microsoft SQL Server 2022 (T-SQL), Maven, and Docker Compose.</li>
         <li>🚀 <b>Currently Exploring:</b> Spring Boot, Microservices, Cloud Infrastructure &amp; CI/CD pipelines.</li>
         <li>🔬 <b>Research Interests:</b> Applied AI engineering, analytical systems, predictive modeling &amp; quantitative decision tools.</li>
-        <li>💬 <b>Ask me about:</b> Java OOP design patterns, SQL Server schema optimization, Dockerizing Java runtimes, and university quiz platforms!</li>
+        <li>💬 <b>Ask me about:</b> Java OOP design patterns, SQL Server schema optimization, Dockerizing Java runtimes, and anime recommendations!</li>
       </ul>
     </td>
     <td width="28%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="150" alt="Chibi Coder" />
+      <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="150" alt="Chibi Coder Girl" />
       <br />
       <sub><i>Keep coding, keep smiling ✨</i></sub>
     </td>
@@ -66,7 +69,7 @@
     </td>
     <td width="75%" valign="middle">
       <h4>🎵 Currently Vibing To: Lo-Fi Coding Beats &amp; Anime OST</h4>
-      <p><i>"Turning caffeine and anime beats into clean Java systems."</i></p>
+      <p><i>"Turning caffeine, anime beats, and cute energy into clean Java systems."</i></p>
       <a href="https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM" target="_blank">
         <img src="https://img.shields.io/badge/Spotify-Coding%20Lo--Fi%20Session-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
       </a>
@@ -85,6 +88,8 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif" width="85" alt="Chibi Cat Peeking" />
 
 #### Languages & Core
 <a href="https://skillicons.dev">
@@ -202,7 +207,7 @@
 ### 📬 Connect With Me
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="120" alt="Chibi Goodbye" />
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="130" alt="Chibi Goodbye" />
   <br />
   <br />
   <a href="https://github.com/ngtaiphat1501" target="_blank">
@@ -222,7 +227,4 @@
     <img src="https://img.shields.io/badge/Resume%20PDF-2F81F7?style=for-the-badge&logo=readthedocs&logoColor=F0F6FC" alt="Download CV" />
   </a>
   -->
-  <br />
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=90&section=footer" width="100%" />
 </div>
