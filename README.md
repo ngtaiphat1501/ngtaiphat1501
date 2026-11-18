@@ -1,34 +1,26 @@
 <div align="center">
-  <h1>Hi there, I'm Nguyen Phat Tai 👋</h1>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C6FF,50:BC13FE,100:0072FF&height=250&section=header&text=Phat%20Tai&fontFace=Lobster&fontSize=90&fontAlignY=35&desc=Crafting%20Digital%20Magic%20%E2%9C%A8&descSize=30&descAlignY=65&descFontFace=Lobster&animation=twinkling&fontColor=ffffff&stroke=000000&strokeWidth=0" width="100%" />
+</div>
 
-  <a href="https://github.com/ngtaiphat1501">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=Software+Engineering+Student+%40+FPT+University;Java+Backend+%26+System+Architecture;Enterprise+Web+Apps+%E2%80%A2+Jakarta+EE+%E2%80%A2+Docker;Vibing+with+Lo-Fi%2C+Anime+%26+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
-  </a>
+<div align="center">
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Location-Can%20Tho%2C%20Vietnam-161B22?style=flat-square&logo=googlemaps&logoColor=58A6FF" alt="Location" />
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-3FB950?style=flat-square&logo=githubactions&logoColor=white" alt="Status" />
-    <img src="https://komarev.com/ghpvc/?username=ngtaiphat1501&label=Profile%20Views&color=161B22&labelColor=0D1117&style=flat-square" alt="Profile Views" />
-  </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=600&color=00F2FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=130&lines=Java+Backend+%7C+Systems+Architect;Turning+Coffee+into+Clean+Code+%E2%98%95;Building+Scalable+Software+%F0%9F%9A%80;Explaining+Complex+Tech+Simply)](https://github.com/ngtaiphat1501)
 
-  <p align="center">
-    <a href="#-about-me">About Me</a> &nbsp;•&nbsp;
-    <a href="#-coding-vibes--music">Music Vibes</a> &nbsp;•&nbsp;
-    <a href="#-tech-stack">Tech Stack</a> &nbsp;•&nbsp;
-    <a href="#-featured-projects">Featured Projects</a> &nbsp;•&nbsp;
-    <a href="#-engineering-roadmap">Roadmap</a> &nbsp;•&nbsp;
-    <a href="#-github-stats">GitHub Stats</a> &nbsp;•&nbsp;
-    <a href="#-connect">Connect</a>
-  </p>
 </div>
 
 ---
 
-### 🌸 About Me
+### 💻 Accessing Mainframe... (About Me)
+
+<div align="center">
+  <a href="https://github.com/ngtaiphat1501">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=20C20E&background=0D1117&center=false&vCenter=true&multiline=true&repeat=false&width=600&height=220&lines=%3E+const+profile+%3D+new+Engineer(%22Nguyen+Phat+Tai%22)%3B;%3E+profile.base+%3D+%22Can+Tho+City%22%3B;%3E+profile.university+%3D+%22FPT+University%22%3B;%3E+profile.focus+%3D+%5B%22Java+Backend%22%2C+%22Systems+Design%22%5D%3B;%3E+profile.status+%3D+%22Always+Shipping%22%3B;%3E+profile.goal+%3D+%22Global+Software+Impact%22%3B;%3E+console.log(%22Ready+to+collaborate!%22)%3B;%3E+%22Let%27s+build+something+epic.%22" alt="Typing SVG" />
+  </a>
+</div>
 
 <table>
   <tr>
-    <td width="72%" valign="middle">
+    <td width="75%" valign="middle">
       <ul>
         <li>🎓 <b>Education:</b> Software Engineering Student at <b>FPT University — Can Tho Campus</b> <!-- UPDATE: Add years & GPA, e.g. `(2024 – 2028) · GPA: X.XX/4.0` --></li>
         <li>💻 <b>Core Focus:</b> Java Backend Architecture, Relational Databases, and Scalable Web Systems.</li>
@@ -38,8 +30,8 @@
         <li>💬 <b>Ask me about:</b> Java OOP design patterns, SQL Server schema optimization, Dockerizing Java runtimes, and anime recommendations!</li>
       </ul>
     </td>
-    <td width="28%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="150" alt="Chibi Coder Girl" />
+    <td width="25%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="140" alt="Chibi Coder Girl" />
       <br />
       <sub><i>Keep coding, keep smiling ✨</i></sub>
     </td>
@@ -57,79 +49,36 @@
 
 ---
 
-### 🎧 Coding Vibes & Music
-
-<table>
-  <tr>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="135" alt="Anime Chibi Music" />
-    </td>
-    <td width="75%" valign="middle">
-      <h4>🎵 Currently Vibing To: Lo-Fi Coding Beats &amp; Anime OST</h4>
-      <p><i>"Turning caffeine, anime beats, and cute energy into clean Java systems."</i></p>
-      <a href="https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM" target="_blank">
-        <img src="https://img.shields.io/badge/Spotify-Coding%20Lo--Fi%20Session-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
-      </a>
-      &nbsp;
-      <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-Lofi%20Girl%20Radio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Lofi Girl Radio" />
-      </a>
-      <br /><br />
-      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="24" alt="Audio Equalizer" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠️ Tech Stack
+### ⚡ Cyber Arsenal (Tech Stack)
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif" width="85" alt="Chibi Cat Peeking" />
-
-#### Languages & Core
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,py,cpp,html,css&theme=dark" alt="Languages and Core" />
-</a>
-
-#### Databases & Infrastructure
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,docker,linux,nginx,git&theme=dark" alt="Databases and Infrastructure" />
-</a>
-
-#### Developer Environment
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=idea,vscode,postman,github,githubactions&theme=dark" alt="Developer Tools" />
-</a>
-
-<br />
-<br />
-
-<img src="https://img.shields.io/badge/Jakarta%20EE%2010-161B22?style=for-the-badge&logo=eclipseide&logoColor=58A6FF" alt="Jakarta EE 10" />
-<img src="https://img.shields.io/badge/Apache%20Tomcat-161B22?style=for-the-badge&logo=apachetomcat&logoColor=F0F6FC" alt="Apache Tomcat" />
-<img src="https://img.shields.io/badge/MS%20SQL%20Server-161B22?style=for-the-badge&logo=microsoftsqlserver&logoColor=58A6FF" alt="MS SQL Server" />
-<img src="https://img.shields.io/badge/Docker%20Compose-161B22?style=for-the-badge&logo=docker&logoColor=58A6FF" alt="Docker Compose" />
-<img src="https://img.shields.io/badge/Apache%20Maven-161B22?style=for-the-badge&logo=apachemaven&logoColor=F0F6FC" alt="Apache Maven" />
-
-<br />
-<br />
-
-<sub><b>Production / Academic Projects:</b> Java (JDK 11–21), Jakarta EE 10, Apache Tomcat, MS SQL Server, Maven, Docker, HTML/CSS/JS, Git &nbsp;|&nbsp; <b>Active Learning:</b> Spring Boot, Python, PostgreSQL, Linux, Nginx, CI/CD</sub>
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,express,java,spring,python,cpp&theme=dark&perline=10" />
+  <br>
+  <br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redis,docker,git&theme=dark&perline=10" />
+  <br>
+  <br>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,photoshop,illustrator,windows,vite,webpack&theme=dark&perline=10" />
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/Jakarta%20EE%2010-161B22?style=for-the-badge&logo=eclipseide&logoColor=00F2FF" alt="Jakarta EE 10" />
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-161B22?style=for-the-badge&logo=apachetomcat&logoColor=ffffff" alt="Apache Tomcat" />
+  <img src="https://img.shields.io/badge/MS%20SQL%20Server-161B22?style=for-the-badge&logo=microsoftsqlserver&logoColor=BC13FE" alt="MS SQL Server" />
+  <img src="https://img.shields.io/badge/Docker%20Compose-161B22?style=for-the-badge&logo=docker&logoColor=00F2FF" alt="Docker Compose" />
+  <img src="https://img.shields.io/badge/Apache%20Maven-161B22?style=for-the-badge&logo=apachemaven&logoColor=ffffff" alt="Apache Maven" />
 </div>
 
 ---
 
-### 📌 Featured Projects
+### 📌 Featured Systems (Projects)
 
 <div align="center">
   <a href="https://github.com/ngtaiphat1501/Ftech_learning_online">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngtaiphat1501&repo=Ftech_learning_online&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=8" width="48%" alt="Ftech Learning Online" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngtaiphat1501&repo=Ftech_learning_online&theme=radical&bg_color=0D1117&title_color=BC13FE&icon_color=00F2FF&text_color=ffffff&border_radius=8" width="48%" alt="Ftech Learning Online" />
   </a>
   &nbsp;
   <a href="https://github.com/ngtaiphat1501/StudentManagementSystem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngtaiphat1501&repo=StudentManagementSystem&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=8" width="48%" alt="Student Management System" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngtaiphat1501&repo=StudentManagementSystem&theme=radical&bg_color=0D1117&title_color=BC13FE&icon_color=00F2FF&text_color=ffffff&border_radius=8" width="48%" alt="Student Management System" />
   </a>
 </div>
 
@@ -144,84 +93,67 @@
   <sub><i>+ 25 private repositories covering coursework, university quiz tools, and algorithmic experiments.</i></sub>
 </p>
 
-<!-- UPDATE: Uncomment when you want to add Certifications & Languages
 ---
 
-### 📜 Certifications & Languages
-
-- **Certification Name** — Issuer (`YYYY`)
-- **Languages:** Vietnamese (Native), English (Working Proficiency)
--->
-
----
-
-### 🗺️ Engineering Roadmap
-
-| Stage | Track | Focus Areas | Status |
-| :---: | :--- | :--- | :---: |
-| **01** | **Java Core & Enterprise Systems** | Jakarta EE 10, OOP Principles, Data Structures & Algorithms (CSD201) | ![Active](https://img.shields.io/badge/Active-3FB950?style=flat-square) |
-| **02** | **Spring Boot & Microservices** | RESTful APIs, Spring Security, JPA / Hibernate, Database Tuning | ![In Progress](https://img.shields.io/badge/In%20Progress-58A6FF?style=flat-square) |
-| **03** | **DevOps & Cloud Infrastructure** | Multi-stage Docker, Linux Server Administration, Nginx, GitHub Actions CI/CD | ![Up Next](https://img.shields.io/badge/Up%20Next-6E7681?style=flat-square) |
-| **04** | **Applied AI & Quantitative Systems** | Analytical Software, Predictive Modeling, Quantitative Decision Systems | ![Research](https://img.shields.io/badge/Research-8957E5?style=flat-square) |
-
----
-
-### 📊 GitHub Stats
+### 📊 System Analytics
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/ngtaiphat1501">
-          <img src="https://github-readme-stats.vercel.app/api?username=ngtaiphat1501&show_icons=true&count_private=true&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=10" height="175" alt="GitHub Stats" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/ngtaiphat1501">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtaiphat1501&layout=compact&langs_count=6&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&border_radius=10" height="175" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://github.com/ngtaiphat1501">
-          <img src="https://streak-stats.demolab.com?user=ngtaiphat1501&background=0d1117&border=30363d&stroke=30363d&ring=58a6ff&fire=3fb950&currStreakNum=f0f6fc&sideNums=f0f6fc&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681&border_radius=10" width="100%" alt="GitHub Streak" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://github.com/ngtaiphat1501">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngtaiphat1501&bg_color=0d1117&color=8b949e&line=58a6ff&point=f0f6fc&area=true&area_color=1f6feb&hide_border=false&radius=10&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=ngtaiphat1501&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=BC13FE&icon_color=00F2FF&text_color=ffffff&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngtaiphat1501&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=BC13FE&text_color=ffffff" height="180" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ngtaiphat1501&theme=radical&hide_border=true&background=0D1117&ring=BC13FE&fire=BC13FE&currStreakLabel=BC13FE" width="80%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ngtaiphat1501&custom_title=Code+Frequency&bg_color=0D1117&color=BC13FE&line=00F2FF&point=ffffff&area_color=BC13FE&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
 
-### 📬 Connect With Me
+### 🎧 Neural Waves (Music)
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="130" alt="Chibi Goodbye" />
-  <br />
-  <br />
-  <a href="https://github.com/ngtaiphat1501" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="GitHub" />
-  </a>
-  <!-- UPDATE: Uncomment and add your real contact details when ready
-  &nbsp;
-  <a href="mailto:your.email@domain.com">
-    <img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email" />
+  <img src="https://spotify-badge.vercel.app/api/now-playing.svg" alt="Spotify Now Playing" width="540" height="52" />
+  <br><br>
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Coding%20Lo--Fi%20Session-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
+  <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Lofi%20Girl%20Radio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Lofi Girl Radio" />
   </a>
-  &nbsp;
-  <a href="./resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume%20PDF-2F81F7?style=for-the-badge&logo=readthedocs&logoColor=F0F6FC" alt="Download CV" />
-  </a>
-  -->
+</div>
+
+---
+
+### 👀 Profile Views
+
+<div align="center">
+  <img src="https://count.getloli.com/@ngtaiphat1501?theme=booru-lewd" alt="Moe Counter" />
+</div>
+
+---
+
+### 🛰️ Uplink (Connect)
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=1877F2)](https://www.facebook.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://linkedin.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:ngtaiphat1501@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/ngtaiphat1501)
+
+<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="120" alt="Chibi Goodbye" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BC13FE,100:00F2FF&height=120&section=footer&animation=twinkling&desc=Made%20with%20Code%20%E2%9C%A8&descSize=20&descAlignY=50&fontColor=ffffff" width="100%" />
 </div>
