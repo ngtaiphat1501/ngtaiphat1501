@@ -132,9 +132,15 @@ Xin chào! Mình là **Nguyễn Phát Tài**, sinh viên chuyên ngành **Kỹ t
 
 ### Progression Roadmap
 
-```text
-[01. Java Core & Enterprise Systems] ➔ [02. Spring Boot & Microservices] ➔ [03. Cloud & DevOps] ➔ [04. AI & Quant Systems]
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/01-Java%20Enterprise-3FB950?style=flat-square" alt="01 Java" />
+  &nbsp;➔&nbsp;
+  <img src="https://img.shields.io/badge/02-Spring%20Boot-38BDF8?style=flat-square" alt="02 Spring Boot" />
+  &nbsp;➔&nbsp;
+  <img src="https://img.shields.io/badge/03-DevOps%20%26%20Cloud-64748B?style=flat-square" alt="03 DevOps" />
+  &nbsp;➔&nbsp;
+  <img src="https://img.shields.io/badge/04-Applied%20AI-818CF8?style=flat-square" alt="04 AI" />
+</p>
 
 | Stage | Track | Focus Areas | Status |
 | :---: | :--- | :--- | :---: |
