@@ -1,27 +1,29 @@
-<svg width="1000" height="148" viewBox="0 0 1000 148" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1000" height="156" viewBox="0 0 1000 156" fill="none" xmlns="http://www.w3.org/2000/svg">
   <!-- Deep charcoal surface with subtle graphite border -->
-  <rect x="0.5" y="0.5" width="999" height="147" rx="6" fill="#0B0C0E" stroke="#22252A" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="999" height="155" rx="6" fill="#0B0C0E" stroke="#22252A" stroke-width="1"/>
 
-  <!-- Subtle architectural vertical divider on right metadata column -->
-  <line x1="720" y1="24" x2="720" y2="124" stroke="#1C1E23" stroke-width="1"/>
+  <!-- Subtle architectural vertical divider -->
+  <line x1="695" y1="24" x2="695" y2="132" stroke="#1C1E23" stroke-width="1"/>
 
   <!-- Restrained dark red editorial accent bar -->
-  <rect x="32" y="34" width="3" height="80" fill="#991B1B"/>
+  <rect x="32" y="34" width="3" height="88" fill="#991B1B"/>
 
-  <!-- Primary editorial identity (Left) -->
-  <text x="52" y="51" fill="#6E737D" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" letter-spacing="1.2">SOFTWARE ENGINEERING PROFILE  ·  @ngtaiphat1501</text>
+  <!-- Left: Nameplate & engineering track -->
+  <text x="52" y="50" fill="#6E737D" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="1.4">ENGINEERING PORTFOLIO &amp; CV  ·  @ngtaiphat1501</text>
 
-  <text x="52" y="88" fill="#ECEEF1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" letter-spacing="-0.6">Nguyen Phat Tai</text>
+  <text x="52" y="88" fill="#ECEEF1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="31" font-weight="600" letter-spacing="-0.6">Nguyen Phat Tai</text>
 
-  <text x="52" y="114" fill="#9095A0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="400">Backend Systems  ·  Database Engineering  ·  Applied AI &amp; Quantitative Research</text>
+  <text x="52" y="116" fill="#9095A0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="400">Software Engineering  ·  Java Backend &amp; Systems Architecture</text>
 
-  <!-- Structured technical metadata (Right) -->
-  <g transform="translate(744, 0)">
-    <text x="0" y="51" fill="#5A5F69" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="0.8">INSTITUTION</text>
-    <text x="0" y="68" fill="#C8CCD4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">FPT University — Can Tho</text>
+  <!-- Right: Structured CV metadata -->
+  <g transform="translate(720, 0)">
+    <text x="0" y="47" fill="#5A5F69" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.9">EDUCATION</text>
+    <text x="0" y="64" fill="#C8CCD4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">FPT University — Can Tho</text>
 
-    <text x="0" y="96" fill="#5A5F69" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11" letter-spacing="0.8">CURRENT TRACK</text>
-    <rect x="0" y="106" width="5" height="5" fill="#991B1B"/>
-    <text x="12" y="113" fill="#C8CCD4" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12">Java → Spring Boot → DevOps</text>
+    <text x="0" y="92" fill="#5A5F69" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.9">LOCATION</text>
+    <text x="0" y="108" fill="#C8CCD4" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Can Tho, Vietnam</text>
+
+    <rect x="0" y="123" width="5" height="5" fill="#991B1B"/>
+    <text x="12" y="129" fill="#9095A0" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5">Java · SQL Server · Docker</text>
   </g>
 </svg>
