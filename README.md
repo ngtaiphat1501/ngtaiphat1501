@@ -8,7 +8,7 @@
 <br />
 
 <a href="https://github.com/ngtaiphat1501">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=95&lines=Java+Backend+%26+Systems+Architect;Turning+Coffee+%26+Lo-Fi+into+Clean+Code+%E2%98%95;Building+Scalable+Software+%F0%9F%9A%80;Exploring+Applied+AI+%26+Distributed+Systems+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&height=50&lines=Java+Backend+%26+Systems+Architect;Turning+Coffee+%26+Lo-Fi+into+Clean+Code+%E2%98%95;Building+Scalable+Software+%F0%9F%9A%80;Exploring+Applied+AI+%26+Distributed+Systems+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br />
@@ -51,17 +51,17 @@ Xin chào! Mình là **Nguyễn Phát Tài**, sinh viên chuyên ngành **Kỹ t
 <p><i>"Turning caffeine, chill lo-fi beats, and clean logic into scalable systems."</i></p>
 
 <a href="https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM" target="_blank">
-  <img src="https://spotify-badge.vercel.app/api/now-playing.svg" alt="Spotify Now Playing" width="540" height="52" />
+  <img src="https://img.shields.io/badge/Now%20Vibing-Lo--Fi%20Beats%20%26%20Anime%20OST-121212?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Spotify Vibes" />
 </a>
 
 <br /><br />
 
 <a href="https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-Coding%20Lo--Fi%20Session-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+  <img src="https://img.shields.io/badge/Spotify-Coding%20Lo--Fi%20Session-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
 </a>
 &nbsp;
 <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-Lofi%20Girl%20Radio-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Lofi Girl Radio" />
+  <img src="https://img.shields.io/badge/YouTube-Lofi%20Girl%20Radio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Lofi Girl Radio" />
 </a>
 
 </div>
