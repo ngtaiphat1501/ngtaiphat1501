@@ -1,8 +1,16 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Nguyen Phat Tai — Software Engineer Profile" width="100%" />
+<div align="center">
+
+# Nguyen Phat Tai
+
+**Software Engineering Student @ FPT University · Java Backend & Systems**
+
+<p>
+  <img src="https://img.shields.io/badge/Location-Can%20Tho%2C%20Vietnam-161B22?style=flat-square&labelColor=0D1117" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Java%20Backend%20%26%20Systems-2F81F7?style=flat-square&labelColor=0D1117" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=ngtaiphat1501&label=Views&color=161B22&labelColor=0D1117&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center">
+<p>
   <a href="#about">About</a> &nbsp;·&nbsp;
   <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
   <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
@@ -11,18 +19,18 @@
   <a href="#connect">Connect</a>
 </p>
 
+</div>
+
 ---
 
 ## About
 
-Software Engineering student at **FPT University (Can Tho)** focusing on **Java backend development**, **relational databases**, and **software architecture**.
-
 - **Education:** B.Sc. in Software Engineering — **FPT University, Can Tho** <!-- UPDATE: Add years & GPA, e.g. `(2024 – 2028) · GPA: X.XX/4.0` -->
 - **Currently building with:** Java (Jakarta EE 10), Apache Tomcat, Microsoft SQL Server (T-SQL), Maven, and Docker Compose.
-- **Currently learning:** Spring Boot, REST API design, Linux/Nginx infrastructure, and CI/CD pipelines.
+- **Currently learning:** Spring Boot, REST API architecture, Linux/Nginx infrastructure, and CI/CD pipelines.
 - **Research interests:** Applied AI engineering, analytical software systems, predictive modeling, and quantitative research.
 <!-- UPDATE: Uncomment when actively applying for internships / roles
-- **Status:** Open to Java Backend / Software Engineering Internship opportunities.
+- **Availability:** Open to Java Backend / Software Engineering Internship opportunities.
 -->
 
 <!-- UPDATE: Uncomment to add Internship / Work Experience
@@ -71,15 +79,22 @@ Software Engineering student at **FPT University (Can Tho)** focusing on **Java 
 
 ## Featured Projects
 
-<p align="center">
-  <a href="https://github.com/ngtaiphat1501/Ftech_learning_online">
-    <img src="./assets/project-ftech.svg" width="49%" alt="Ftech Learning Online — Java Web MVC LMS Platform" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/ngtaiphat1501/StudentManagementSystem">
-    <img src="./assets/project-sms.svg" width="49%" alt="Student Management System — Layered Java OOP Console App" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ngtaiphat1501/Ftech_learning_online">Ftech_learning_online</a></h3>
+      <p><sub><b>Fullstack Developer</b> (Team of 5) · Oct – Nov 2026</sub></p>
+      <p>Full-stack E-Learning &amp; course commerce platform (LMS) built on Java Web MVC. Owned the Admin Dashboard, idempotent Cart/Checkout pipeline, Chart.js revenue analytics, and multi-stage Docker + SQL Server Compose stack.</p>
+      <p><code>Java 21</code> <code>Jakarta EE 10</code> <code>Tomcat</code> <code>SQL Server</code> <code>Maven</code> <code>Docker</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/ngtaiphat1501/StudentManagementSystem">StudentManagementSystem</a></h3>
+      <p><sub><b>Java Developer</b> (Team Project) · Mar 2026</sub></p>
+      <p>Console-based academic management system with a layered Java OOP architecture (<code>models</code>, <code>services</code>, <code>managers</code>, <code>menus</code>, <code>utils</code>), supporting 4 user roles over decoupled binary <code>.dat</code> file persistence.</p>
+      <p><code>Java OOP</code> <code>Layered CLI</code> <code>File I/O</code> <code>Ant</code></p>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary><b>CV Technical Breakdown (Click to expand)</b></summary>
@@ -89,7 +104,7 @@ Software Engineering student at **FPT University (Can Tho)** focusing on **Java 
 **1. [Ftech_learning_online](https://github.com/ngtaiphat1501/Ftech_learning_online)** — *Fullstack Developer (Team of 5) · Oct – Nov 2026*
 - Built the **Admin Dashboard**, **Cart & Checkout pipeline**, and **Order History / Revenue Analytics** (Chart.js) on Java Web MVC (Jakarta EE 10 / Servlets / JSP) and Apache Tomcat 10.1.
 - Implemented **idempotent order generation**, coupon validation, and VNPAY sandbox checkout flows to prevent duplicate transactions.
-- Containerized the stack with a **multi-stage Dockerfile** (Maven + Temurin JDK 21 → Tomcat 10.1) and **Docker Compose** pairing Tomcat with Microsoft SQL Server 2022 (`healthcheck` + `LEARNORA_DB_URL` environment configuration).
+- Containerized the runtime and database with a **multi-stage Dockerfile** (Maven + Temurin JDK 21 → Tomcat 10.1) and **Docker Compose** pairing Tomcat with Microsoft SQL Server 2022 (`healthcheck` + `LEARNORA_DB_URL` environment configuration).
 - Integrated Excel import/export via Apache POI and aligned five team modules onto a shared SQL Server schema.
 
 **2. [StudentManagementSystem](https://github.com/ngtaiphat1501/StudentManagementSystem)** — *Java Developer (Team Project) · Mar 2026*
@@ -113,9 +128,12 @@ Software Engineering student at **FPT University (Can Tho)** focusing on **Java 
 
 ## Roadmap
 
-<p align="center">
-  <img src="./assets/roadmap.svg" alt="Engineering Roadmap: Java Engineering to Spring Boot to DevOps to AI and Quant Systems" width="100%" />
-</p>
+| Stage | Track | Focus | Status |
+| :---: | :--- | :--- | :--- |
+| **01** | **Java Engineering** | Jakarta EE, OOP, Data Structures & Algorithms | Active |
+| **02** | **Spring Boot** | REST APIs, Spring Security, JPA / Hibernate | In Progress |
+| **03** | **DevOps & Infrastructure** | Docker, Linux, Nginx, CI/CD Pipelines | Next |
+| **04** | **AI & Quant Systems** | Applied AI, Predictive Modeling, Quantitative Research | Research |
 
 ---
 
@@ -159,7 +177,7 @@ Software Engineering student at **FPT University (Can Tho)** focusing on **Java 
     <img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="./assets/resume.pdf">
+  <a href="./resume.pdf">
     <img src="https://img.shields.io/badge/Resume%20PDF-2F81F7?style=for-the-badge&logo=readthedocs&logoColor=F0F6FC" alt="Download CV" />
   </a>
   -->
