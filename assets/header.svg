@@ -1,0 +1,113 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Subtle dark surface gradient -->
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#090C10"/>
+    </linearGradient>
+
+    <!-- Ultra-subtle ambient depth behind isometric geometry -->
+    <radialGradient id="ambient" cx="955" cy="130" r="240" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#58A6FF" stop-opacity="0.11"/>
+      <stop offset="55%" stop-color="#1F6FEB" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Dot matrix pattern -->
+    <pattern id="dots" x="0" y="0" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1" fill="#30363D" fill-opacity="0.55"/>
+    </pattern>
+
+    <!-- Fade mask for dots -->
+    <radialGradient id="dotFade" cx="920" cy="130" r="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="white" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="white" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="white" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="dotMask">
+      <rect width="1200" height="260" fill="url(#dotFade)"/>
+    </mask>
+
+    <!-- Isometric 3D face fills (layered matte dark surfaces) -->
+    <linearGradient id="topFace" x1="955" y1="42" x2="955" y2="128" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#21262D" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#161B22" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="leftFace" x1="875" y1="88" x2="955" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#161B22" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0.95"/>
+    </linearGradient>
+    <linearGradient id="rightFace" x1="1035" y1="88" x2="955" y2="220" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D1117" stop-opacity="0.92"/>
+      <stop offset="100%" stop-color="#090C10" stop-opacity="0.98"/>
+    </linearGradient>
+    <linearGradient id="edgeHighlight" x1="875" y1="86" x2="1035" y2="86" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#30363D"/>
+      <stop offset="50%" stop-color="#79C0FF" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#30363D"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Outer rounded card -->
+  <rect x="0.75" y="0.75" width="1198.5" height="258.5" rx="12" fill="url(#bgGrad)" stroke="#21262D" stroke-width="1.5"/>
+
+  <!-- Masked dot grid -->
+  <rect x="1" y="1" width="1198" height="258" rx="12" fill="url(#dots)" mask="url(#dotMask)"/>
+
+  <!-- Subtle depth glow -->
+  <rect x="1" y="1" width="1198" height="258" rx="12" fill="url(#ambient)"/>
+
+  <!-- Minimalist architectural typography (Left) -->
+  <g transform="translate(68, 0)">
+    <text x="0" y="84" fill="#6E7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="13" letter-spacing="1.5">@ngtaiphat1501</text>
+
+    <text x="0" y="132" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="600" letter-spacing="-0.8">Nguyen Phat Tai</text>
+
+    <text x="0" y="168" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="400">Software Engineering  ·  Backend Systems &amp; Applied AI</text>
+
+    <rect x="0" y="192" width="32" height="1.5" fill="#58A6FF" fill-opacity="0.75"/>
+
+    <text x="44" y="197" fill="#6E7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" letter-spacing="0.4">FPT University  /  Can Tho, Vietnam</text>
+  </g>
+
+  <!-- Crisp Hand-Coded Isometric 3D Architectural Sculpture (Right) -->
+  <g transform="translate(0, 2)">
+    <!-- Subtle perspective ground plane -->
+    <polygon points="955,152 1085,204 955,244 825,204" fill="none" stroke="#21262D" stroke-width="1"/>
+    <line x1="890" y1="178" x2="1020" y2="224" stroke="#21262D" stroke-width="0.75" stroke-dasharray="3 4"/>
+    <line x1="1020" y1="178" x2="890" y2="224" stroke="#21262D" stroke-width="0.75" stroke-dasharray="3 4"/>
+
+    <!-- Outer Isometric Cube (center 955,130, radius 80) -->
+    <!-- Back wireframe edges for 3D depth -->
+    <line x1="955" y1="42" x2="955" y2="128" stroke="#21262D" stroke-width="1" stroke-dasharray="3 3"/>
+    <line x1="955" y1="128" x2="875" y2="174" stroke="#21262D" stroke-width="1" stroke-dasharray="3 3"/>
+    <line x1="955" y1="128" x2="1035" y2="174" stroke="#21262D" stroke-width="1" stroke-dasharray="3 3"/>
+
+    <!-- Outer matte faces -->
+    <polygon points="955,42 1035,86 955,130 875,86" fill="url(#topFace)" stroke="#30363D" stroke-width="1"/>
+    <polygon points="875,86 955,130 955,218 875,174" fill="url(#leftFace)" stroke="#30363D" stroke-width="1"/>
+    <polygon points="1035,86 955,130 955,218 1035,174" fill="url(#rightFace)" stroke="#30363D" stroke-width="1"/>
+
+    <!-- Inner nested isometric core (floating inside) -->
+    <polygon points="955,86 995,108 955,130 915,108" fill="#58A6FF" fill-opacity="0.08" stroke="#58A6FF" stroke-opacity="0.55" stroke-width="1"/>
+    <polygon points="915,108 955,130 955,174 915,152" fill="#161B22" fill-opacity="0.65" stroke="#58A6FF" stroke-opacity="0.35" stroke-width="1"/>
+    <polygon points="995,108 955,130 955,174 995,152" fill="#0D1117" fill-opacity="0.75" stroke="#58A6FF" stroke-opacity="0.35" stroke-width="1"/>
+
+    <!-- Connecting structural vertices (outer to inner) -->
+    <line x1="955" y1="42" x2="955" y2="86" stroke="#30363D" stroke-width="0.9"/>
+    <line x1="875" y1="86" x2="915" y2="108" stroke="#30363D" stroke-width="0.9"/>
+    <line x1="1035" y1="86" x2="995" y2="108" stroke="#30363D" stroke-width="0.9"/>
+    <line x1="955" y1="218" x2="955" y2="174" stroke="#30363D" stroke-width="0.9"/>
+
+    <!-- Crisp top ridge highlight -->
+    <polyline points="875,86 955,130 1035,86" fill="none" stroke="url(#edgeHighlight)" stroke-width="1.25"/>
+    <line x1="955" y1="130" x2="955" y2="218" stroke="#484F58" stroke-width="1.1"/>
+
+    <!-- Minimal vertex nodes -->
+    <circle cx="955" cy="42" r="2.2" fill="#8B949E"/>
+    <circle cx="955" cy="130" r="2.6" fill="#79C0FF"/>
+    <circle cx="875" cy="86" r="2" fill="#484F58"/>
+    <circle cx="1035" cy="86" r="2" fill="#484F58"/>
+    <circle cx="955" cy="218" r="2" fill="#484F58"/>
+  </g>
+</svg>
