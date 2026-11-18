@@ -1,18 +1,18 @@
 <svg width="1000" height="196" viewBox="0 0 1000 196" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1000" y2="196" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#0B0C0E"/>
-      <stop offset="100%" stop-color="#08090B"/>
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#0A0E14"/>
     </linearGradient>
 
-    <radialGradient id="crimsonGlow" cx="845" cy="98" r="190" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#991B1B" stop-opacity="0.22"/>
-      <stop offset="55%" stop-color="#7F1D1D" stop-opacity="0.06"/>
-      <stop offset="100%" stop-color="#0B0C0E" stop-opacity="0"/>
+    <radialGradient id="blueGlow" cx="845" cy="98" r="195" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#2F81F7" stop-opacity="0.16"/>
+      <stop offset="55%" stop-color="#1F6FEB" stop-opacity="0.05"/>
+      <stop offset="100%" stop-color="#0D1117" stop-opacity="0"/>
     </radialGradient>
 
     <pattern id="dotGrid" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
-      <circle cx="1.5" cy="1.5" r="0.9" fill="#2A2E37" fill-opacity="0.7"/>
+      <circle cx="1.5" cy="1.5" r="0.9" fill="#30363D" fill-opacity="0.7"/>
     </pattern>
 
     <radialGradient id="dotFade" cx="820" cy="98" r="420" gradientUnits="userSpaceOnUse">
@@ -25,67 +25,66 @@
     </mask>
 
     <linearGradient id="faceTop" x1="845" y1="30" x2="845" y2="96" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#1E2026"/>
-      <stop offset="100%" stop-color="#13151A"/>
+      <stop offset="0%" stop-color="#21262D"/>
+      <stop offset="100%" stop-color="#161B22"/>
     </linearGradient>
     <linearGradient id="faceLeft" x1="785" y1="64" x2="845" y2="164" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#15171C"/>
-      <stop offset="100%" stop-color="#0B0C0E"/>
+      <stop offset="0%" stop-color="#161B22"/>
+      <stop offset="100%" stop-color="#0D1117"/>
     </linearGradient>
     <linearGradient id="faceRight" x1="905" y1="64" x2="845" y2="164" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#0E1014"/>
-      <stop offset="100%" stop-color="#07080A"/>
+      <stop offset="0%" stop-color="#0F141B"/>
+      <stop offset="100%" stop-color="#090C10"/>
     </linearGradient>
   </defs>
 
-  <!-- Main dark card -->
-  <rect x="0.75" y="0.75" width="998.5" height="194.5" rx="10" fill="url(#bg)" stroke="#22252A" stroke-width="1.2"/>
+  <!-- Main GitHub-native dark card -->
+  <rect x="0.75" y="0.75" width="998.5" height="194.5" rx="10" fill="url(#bg)" stroke="#30363D" stroke-width="1.2"/>
   <rect x="1" y="1" width="998" height="194" rx="10" fill="url(#dotGrid)" mask="url(#dm)"/>
-  <rect x="1" y="1" width="998" height="194" rx="10" fill="url(#crimsonGlow)"/>
+  <rect x="1" y="1" width="998" height="194" rx="10" fill="url(#blueGlow)"/>
 
-  <!-- Left editorial content -->
+  <!-- Left IT identity -->
   <g transform="translate(48, 0)">
-    <!-- Compact modern status pill -->
-    <rect x="0" y="32" width="252" height="24" rx="12" fill="#13151A" stroke="#252830" stroke-width="1"/>
-    <circle cx="14" cy="44" r="3" fill="#DC2626"/>
-    <text x="25" y="48" fill="#A0A5B1" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.8">FPT UNIVERSITY  ·  CAN THO, VN</text>
+    <!-- Status pill with emerald active indicator -->
+    <rect x="0" y="32" width="252" height="24" rx="12" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <circle cx="14" cy="44" r="3.2" fill="#3FB950"/>
+    <text x="25" y="48" fill="#8B949E" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" letter-spacing="0.8">FPT UNIVERSITY  ·  CAN THO, VN</text>
 
     <!-- Display Name -->
-    <text x="0" y="100" fill="#F2F4F8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" font-weight="600" letter-spacing="-0.8">Nguyen Phat Tai</text>
+    <text x="0" y="100" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="36" font-weight="600" letter-spacing="-0.8">Nguyen Phat Tai</text>
 
     <!-- Subtitle -->
-    <text x="0" y="130" fill="#9095A0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400">Software Engineering  ·  Java Backend  ·  Systems &amp; Applied AI</text>
+    <text x="0" y="130" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400">Software Engineering  ·  Java Backend  ·  Systems &amp; Applied AI</text>
 
-    <!-- Restrained crimson bar + handle -->
-    <rect x="0" y="152" width="32" height="2" fill="#991B1B"/>
-    <text x="42" y="157" fill="#6B707B" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="0.6">@ngtaiphat1501  /  CV &amp; Portfolio</text>
+    <!-- Engineering blue accent bar + handle -->
+    <rect x="0" y="152" width="32" height="2" fill="#2F81F7"/>
+    <text x="42" y="157" fill="#6E7681" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace" font-size="12" letter-spacing="0.6">@ngtaiphat1501  /  CV &amp; Portfolio</text>
   </g>
 
-  <!-- Right: Clean 3D Isometric Dark-Graphite & Crimson Architectural Cube -->
+  <!-- Right: Clean 3D Isometric Engineering Blue Architectural Cube -->
   <g>
-    <!-- Perspective grid ring -->
-    <polygon points="845,116 942,155 845,184 748,155" fill="none" stroke="#1E2026" stroke-width="1"/>
+    <polygon points="845,116 942,155 845,184 748,155" fill="none" stroke="#21262D" stroke-width="1"/>
 
     <!-- Outer isometric cube -->
-    <polygon points="845,32 905,66 845,100 785,66" fill="url(#faceTop)" stroke="#2E323C" stroke-width="1"/>
-    <polygon points="785,66 845,100 845,166 785,132" fill="url(#faceLeft)" stroke="#2E323C" stroke-width="1"/>
-    <polygon points="905,66 845,100 845,166 905,132" fill="url(#faceRight)" stroke="#2E323C" stroke-width="1"/>
+    <polygon points="845,32 905,66 845,100 785,66" fill="url(#faceTop)" stroke="#30363D" stroke-width="1"/>
+    <polygon points="785,66 845,100 845,166 785,132" fill="url(#faceLeft)" stroke="#30363D" stroke-width="1"/>
+    <polygon points="905,66 845,100 845,166 905,132" fill="url(#faceRight)" stroke="#30363D" stroke-width="1"/>
 
-    <!-- Inner nested crimson-edged core -->
-    <polygon points="845,66 875,83 845,100 815,83" fill="#991B1B" fill-opacity="0.18" stroke="#DC2626" stroke-opacity="0.7" stroke-width="1"/>
-    <polygon points="815,83 845,100 845,134 815,117" fill="#14161B" fill-opacity="0.8" stroke="#991B1B" stroke-opacity="0.6" stroke-width="1"/>
-    <polygon points="875,83 845,100 845,134 875,117" fill="#0B0C0E" fill-opacity="0.85" stroke="#991B1B" stroke-opacity="0.6" stroke-width="1"/>
+    <!-- Inner nested engineering blue core -->
+    <polygon points="845,66 875,83 845,100 815,83" fill="#2F81F7" fill-opacity="0.14" stroke="#58A6FF" stroke-opacity="0.7" stroke-width="1"/>
+    <polygon points="815,83 845,100 845,134 815,117" fill="#161B22" fill-opacity="0.8" stroke="#2F81F7" stroke-opacity="0.5" stroke-width="1"/>
+    <polygon points="875,83 845,100 845,134 875,117" fill="#0D1117" fill-opacity="0.85" stroke="#2F81F7" stroke-opacity="0.5" stroke-width="1"/>
 
     <!-- Structural vertex links -->
-    <line x1="845" y1="32" x2="845" y2="66" stroke="#2E323C" stroke-width="0.9"/>
-    <line x1="785" y1="66" x2="815" y2="83" stroke="#2E323C" stroke-width="0.9"/>
-    <line x1="905" y1="66" x2="875" y2="83" stroke="#2E323C" stroke-width="0.9"/>
-    <line x1="845" y1="166" x2="845" y2="134" stroke="#2E323C" stroke-width="0.9"/>
+    <line x1="845" y1="32" x2="845" y2="66" stroke="#30363D" stroke-width="0.9"/>
+    <line x1="785" y1="66" x2="815" y2="83" stroke="#30363D" stroke-width="0.9"/>
+    <line x1="905" y1="66" x2="875" y2="83" stroke="#30363D" stroke-width="0.9"/>
+    <line x1="845" y1="166" x2="845" y2="134" stroke="#30363D" stroke-width="0.9"/>
 
-    <!-- Highlight vertex -->
-    <circle cx="845" cy="100" r="2.6" fill="#DC2626"/>
-    <circle cx="845" cy="32" r="2" fill="#6B707B"/>
-    <circle cx="785" cy="66" r="1.8" fill="#464B55"/>
-    <circle cx="905" cy="66" r="1.8" fill="#464B55"/>
+    <!-- Highlight nodes -->
+    <circle cx="845" cy="100" r="2.6" fill="#58A6FF"/>
+    <circle cx="845" cy="32" r="2" fill="#8B949E"/>
+    <circle cx="785" cy="66" r="1.8" fill="#484F58"/>
+    <circle cx="905" cy="66" r="1.8" fill="#484F58"/>
   </g>
 </svg>
