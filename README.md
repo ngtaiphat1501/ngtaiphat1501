@@ -54,20 +54,20 @@ Xin chào! Mình là **Nguyễn Phát Tài**, sinh viên chuyên ngành **Kỹ t
 
 <div align="center">
 
-<p><i>"Turning caffeine, chill lo-fi beats, and clean logic into scalable systems."</i></p>
+<p><i>"Turning caffeine, The Weeknd synthwave beats, and clean logic into scalable systems."</i></p>
 
-<a href="https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM" target="_blank">
-  <img src="https://img.shields.io/badge/Now%20Vibing-Lo--Fi%20Beats%20%26%20Anime%20OST-121212?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Spotify Vibes" />
+<a href="https://open.spotify.com/playlist/37i9dQZF1DX6bnzK9KPvrZ" target="_blank">
+  <img src="https://img.shields.io/badge/Now%20Vibing-The%20Weeknd%20%E2%80%A2%20After%20Hours-121212?style=for-the-badge&logo=spotify&logoColor=1DB954" alt="Spotify Vibes" />
 </a>
 
 <br /><br />
 
-<a href="https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM" target="_blank">
-  <img src="https://img.shields.io/badge/Spotify-Coding%20Lo--Fi%20Session-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+<a href="https://open.spotify.com/playlist/37i9dQZF1DX6bnzK9KPvrZ" target="_blank">
+  <img src="https://img.shields.io/badge/Spotify-This%20Is%20The%20Weeknd-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="This Is The Weeknd" />
 </a>
 &nbsp;
-<a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-Lofi%20Girl%20Radio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Lofi Girl Radio" />
+<a href="https://www.youtube.com/channel/UC0WP5P-ufpRfjbNrmOWwLBQ" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-The%20Weeknd%20Official-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="The Weeknd Official" />
 </a>
 
 </div>
