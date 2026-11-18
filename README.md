@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,30&height=180&section=header&text=Nguyen%20Phat%20Tai&fontSize=42&fontColor=f0f6fc&animation=twinkling&fontAlignY=38&desc=Software%20Engineering%20%7C%20Java%20Backend%20%26%20Systems&descAlignY=58&descAlign=50" width="100%" />
 
   <a href="https://github.com/ngtaiphat1501">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Software+Engineering+Student+%40+FPT+University;Java+Backend+%26+System+Architecture;Enterprise+Web+Apps+%E2%80%A2+Jakarta+EE+%E2%80%A2+Docker;Building+Practical%2C+Reliable+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Software+Engineering+Student+%40+FPT+University;Java+Backend+%26+System+Architecture;Enterprise+Web+Apps+%E2%80%A2+Jakarta+EE+%E2%80%A2+Docker;Vibing+with+Lo-Fi%2C+Anime+%26+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -13,6 +13,7 @@
 
   <p align="center">
     <a href="#-about-me">About Me</a> &nbsp;•&nbsp;
+    <a href="#-coding-vibes--music">Music Vibes</a> &nbsp;•&nbsp;
     <a href="#-tech-stack">Tech Stack</a> &nbsp;•&nbsp;
     <a href="#-featured-projects">Featured Projects</a> &nbsp;•&nbsp;
     <a href="#-engineering-roadmap">Roadmap</a> &nbsp;•&nbsp;
@@ -23,14 +24,27 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🌸 About Me
 
-- 🎓 **Education:** Software Engineering Student at **FPT University — Can Tho Campus** <!-- UPDATE: Add years & GPA, e.g. `(2024 – 2028) · GPA: X.XX/4.0` -->
-- 💻 **Core Focus:** Java Backend Engineering, Relational Database Modeling, and Scalable Web Architecture.
-- ⚙️ **Current Production Stack:** Java (Jakarta EE 10), Apache Tomcat 10, Microsoft SQL Server 2022 (T-SQL), Maven, and Docker Compose.
-- 🚀 **Currently Exploring:** Spring Boot, Spring Security, Microservices Architecture, and CI/CD pipelines.
-- 🔬 **Research Interests:** Applied AI engineering, analytical systems, predictive modeling, and quantitative decision tools.
-- 💬 **Ask me about:** Java OOP design patterns, SQL Server schema optimization, Dockerizing Java runtimes, and university quiz platforms.
+<table>
+  <tr>
+    <td width="72%" valign="middle">
+      <ul>
+        <li>🎓 <b>Education:</b> Software Engineering Student at <b>FPT University — Can Tho Campus</b> <!-- UPDATE: Add years & GPA, e.g. `(2024 – 2028) · GPA: X.XX/4.0` --></li>
+        <li>💻 <b>Core Focus:</b> Java Backend Architecture, Relational Databases, and Scalable Web Systems.</li>
+        <li>⚙️ <b>Active Stack:</b> Java (Jakarta EE 10), Apache Tomcat 10, Microsoft SQL Server 2022 (T-SQL), Maven, and Docker Compose.</li>
+        <li>🚀 <b>Currently Exploring:</b> Spring Boot, Microservices, Cloud Infrastructure &amp; CI/CD pipelines.</li>
+        <li>🔬 <b>Research Interests:</b> Applied AI engineering, analytical systems, predictive modeling &amp; quantitative decision tools.</li>
+        <li>💬 <b>Ask me about:</b> Java OOP design patterns, SQL Server schema optimization, Dockerizing Java runtimes, and university quiz platforms!</li>
+      </ul>
+    </td>
+    <td width="28%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="150" alt="Chibi Coder" />
+      <br />
+      <sub><i>Keep coding, keep smiling ✨</i></sub>
+    </td>
+  </tr>
+</table>
 
 <!-- UPDATE: Uncomment when you want to add Internship / Work Experience
 ---
@@ -40,6 +54,31 @@
 **Role Title** — Company / Lab (`Month YYYY – Month YYYY`)
 - Key backend, database, or infrastructure contribution with measurable impact.
 -->
+
+---
+
+### 🎧 Coding Vibes & Music
+
+<table>
+  <tr>
+    <td width="25%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/216649421-9e9387cc-b2d3-4375-97e2-f4c43373d3ae.gif" width="135" alt="Anime Chibi Music" />
+    </td>
+    <td width="75%" valign="middle">
+      <h4>🎵 Currently Vibing To: Lo-Fi Coding Beats &amp; Anime OST</h4>
+      <p><i>"Turning caffeine and anime beats into clean Java systems."</i></p>
+      <a href="https://open.spotify.com/playlist/37i9dQZF1DXdLEN7aqioXM" target="_blank">
+        <img src="https://img.shields.io/badge/Spotify-Coding%20Lo--Fi%20Session-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
+      </a>
+      &nbsp;
+      <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-Lofi%20Girl%20Radio-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Lofi Girl Radio" />
+      </a>
+      <br /><br />
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="24" alt="Audio Equalizer" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -163,6 +202,9 @@
 ### 📬 Connect With Me
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="120" alt="Chibi Goodbye" />
+  <br />
+  <br />
   <a href="https://github.com/ngtaiphat1501" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=F0F6FC" alt="GitHub" />
   </a>
