@@ -1,11 +1,8 @@
 <div align="center">
-  <img src="./assets/anime_banner.png" width="100%" alt="Nguyen Phat Tai — Anime Developer" />
-
-  <br />
-  <br />
+  <h1>Hi there, I'm Nguyen Phat Tai 👋</h1>
 
   <a href="https://github.com/ngtaiphat1501">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Software+Engineering+Student+%40+FPT+University;Java+Backend+%26+System+Architecture;Enterprise+Web+Apps+%E2%80%A2+Jakarta+EE+%E2%80%A2+Docker;Vibing+with+Lo-Fi%2C+Anime+%26+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=Software+Engineering+Student+%40+FPT+University;Java+Backend+%26+System+Architecture;Enterprise+Web+Apps+%E2%80%A2+Jakarta+EE+%E2%80%A2+Docker;Vibing+with+Lo-Fi%2C+Anime+%26+Clean+Code+%E2%9C%A8" alt="Typing SVG" />
   </a>
 
   <p align="center">
