@@ -114,8 +114,8 @@ Xin chào! Mình là **Nguyễn Phát Tài**, sinh viên chuyên ngành **Kỹ t
 ### Featured Systems
 
 <div align="center">
-  <a href="https://github.com/ngtaiphat1501/DeepChart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngtaiphat1501&repo=DeepChart&bg_color=0d1117&border_color=30363d&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8&border_radius=8" width="48%" alt="DeepChart" />
+  <a href="https://github.com/ngtaiphat1501/VluxChart">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ngtaiphat1501&repo=VluxChart&bg_color=0d1117&border_color=30363d&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8&border_radius=8" width="48%" alt="VluxChart" />
   </a>
   &nbsp;
   <a href="https://github.com/ngtaiphat1501/Ftech_learning_online">
@@ -127,7 +127,7 @@ Xin chào! Mình là **Nguyễn Phát Tài**, sinh viên chuyên ngành **Kỹ t
 
 | System | Role & Architecture | Technical Highlights |
 | :--- | :--- | :--- |
-| **[DeepChart](https://github.com/ngtaiphat1501/DeepChart)** | **Lead Developer** (Personal Project)<br>Quantitative Desktop System (Nov 2026) | • High-performance desktop market footprint &amp; delta analytics engine with **Rust** &amp; **Tauri 2**<br>• Real-time WebSocket trade feeds from **Bybit Linear** &amp; **Binance Futures** with bounded Tokio MPSC backpressure<br>• Zero-float volume accounting (`rust_decimal`) with append-only `.ndjson` audit journal &amp; 125ms Canvas2D chart updates<br>`Rust` `Tauri 2` `Tokio` `WebSockets` `React` `TypeScript` `Canvas2D` |
+| **[VluxChart](https://github.com/ngtaiphat1501/VluxChart)** | **Lead Developer** (Personal Project)<br>Order Flow & Microstructure Terminal (Nov 2026) | • Institutional-grade order flow analytics &amp; microstructure terminal engineered with **Rust**, **Tauri 2** &amp; **React 19**<br>• Real-time WebSocket trade feeds from **Bybit Linear** &amp; **Binance Futures** + MT5 live bridge with zero-loss WAL CRC32<br>• Footprint clusters, Diagonal Imbalance (300%), Options GEX profiling, and 60 FPS Canvas2D/WebGL viewport culling (41/41 test gates passed)<br>`Rust` `Tauri 2` `React 19` `TypeScript` `Tokio` `WebSockets` `Canvas2D` |
 | **[Ftech_learning_online](https://github.com/ngtaiphat1501/Ftech_learning_online)** | **Fullstack Developer** (Team of 5)<br>PRJ301 Capstone (Oct – Nov 2026) | • Designed &amp; built the **Admin Dashboard** and **Financial Revenue Analytics** (Chart.js)<br>• Implemented **idempotent checkout generation**, coupon validation, and VNPAY sandbox flow<br>• Packaged runtime with **multi-stage Dockerfile** &amp; Docker Compose linking SQL Server 2022<br>`Java 21` `Jakarta EE 10` `Tomcat` `SQL Server` `Maven` `Docker` |
 | **[StudentManagementSystem](https://github.com/ngtaiphat1501/StudentManagementSystem)** | **Java Developer** (Team Project)<br>Academic System (Mar 2026) | • Structured layered Java OOP architecture (`models`, `services`, `managers`, `menus`, `utils`)<br>• Implemented 4 role-based CLI menus (`Admin`, `Staff`, `Teacher`, `Student`)<br>• Decoupled domain models from binary file serialization (`.dat` file persistence)<br>`Java OOP` `Layered CLI` `File I/O` `Ant` |
 
@@ -154,7 +154,7 @@ Xin chào! Mình là **Nguyễn Phát Tài**, sinh viên chuyên ngành **Kỹ t
 | **01** | **Java Core & Enterprise Systems** | Jakarta EE 10, OOP Principles, Data Structures &amp; Algorithms (CSD201) | ![Active](https://img.shields.io/badge/Active-3FB950?style=flat-square) |
 | **02** | **Spring Boot & Microservices** | RESTful APIs, Spring Security, JPA / Hibernate, Database Tuning | ![In Progress](https://img.shields.io/badge/In%20Progress-38BDF8?style=flat-square) |
 | **03** | **DevOps & Cloud Infrastructure** | Multi-stage Docker, Linux Server Administration, Nginx, GitHub Actions CI/CD | ![Up Next](https://img.shields.io/badge/Up%20Next-64748B?style=flat-square) |
-| **04** | **Applied AI & Quantitative Systems** | Analytical Software, Predictive Modeling, Quantitative Decision Systems (DeepChart) | ![Active](https://img.shields.io/badge/Active-3FB950?style=flat-square) |
+| **04** | **Applied AI & Quantitative Systems** | Analytical Software, Predictive Modeling, Quantitative Decision Systems (VluxChart) | ![Active](https://img.shields.io/badge/Active-3FB950?style=flat-square) |
 
 ---
 
