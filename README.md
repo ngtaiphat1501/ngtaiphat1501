@@ -23,6 +23,10 @@
   <a href="https://ngtaiphat1501.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Live_Portfolio-ngtaiphat1501.github.io-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=06090e" alt="Live Portfolio" />
   </a>
+  &nbsp;
+  <a href="https://ngtaiphat1501.github.io/projects.html" target="_blank">
+    <img src="https://img.shields.io/badge/Projects_Hub-Live_Demos_%26_Specs-0D1117?style=for-the-badge&logo=appveyor&logoColor=38bdf8" alt="Projects Hub" />
+  </a>
 </p>
 
 <p align="center">
@@ -127,9 +131,9 @@ Xin chào! Mình là **Nguyễn Phát Tài**, sinh viên chuyên ngành **Kỹ t
 
 | System | Role & Architecture | Technical Highlights |
 | :--- | :--- | :--- |
-| **[VluxChart](https://github.com/ngtaiphat1501/VluxChart)** | **Lead Developer** (Personal Project)<br>Order Flow & Microstructure Terminal (Nov 2026) | • Institutional-grade order flow analytics &amp; microstructure terminal engineered with **Rust**, **Tauri 2** &amp; **React 19**<br>• Real-time WebSocket trade feeds from **Bybit Linear** &amp; **Binance Futures** + MT5 live bridge with zero-loss WAL CRC32<br>• Footprint clusters, Diagonal Imbalance (300%), Options GEX profiling, and 60 FPS Canvas2D/WebGL viewport culling (41/41 test gates passed)<br>`Rust` `Tauri 2` `React 19` `TypeScript` `Tokio` `WebSockets` `Canvas2D` |
-| **[Ftech_learning_online](https://github.com/ngtaiphat1501/Ftech_learning_online)** | **Fullstack Developer** (Team of 5)<br>PRJ301 Capstone (Oct – Nov 2026) | • Designed &amp; built the **Admin Dashboard** and **Financial Revenue Analytics** (Chart.js)<br>• Implemented **idempotent checkout generation**, coupon validation, and VNPAY sandbox flow<br>• Packaged runtime with **multi-stage Dockerfile** &amp; Docker Compose linking SQL Server 2022<br>`Java 21` `Jakarta EE 10` `Tomcat` `SQL Server` `Maven` `Docker` |
-| **[StudentManagementSystem](https://github.com/ngtaiphat1501/StudentManagementSystem)** | **Java Developer** (Team Project)<br>Academic System (Mar 2026) | • Structured layered Java OOP architecture (`models`, `services`, `managers`, `menus`, `utils`)<br>• Implemented 4 role-based CLI menus (`Admin`, `Staff`, `Teacher`, `Student`)<br>• Decoupled domain models from binary file serialization (`.dat` file persistence)<br>`Java OOP` `Layered CLI` `File I/O` `Ant` |
+| **[VluxChart](https://github.com/ngtaiphat1501/VluxChart)**<br><sub>[Live Web Demo ➔](https://ngtaiphat1501.github.io/projects.html#vluxchart)</sub> | **Lead Developer** (Personal Project)<br>Order Flow & Microstructure Terminal (Nov 2026) | • Institutional-grade order flow analytics &amp; microstructure terminal engineered with **Rust**, **Tauri 2** &amp; **React 19**<br>• Real-time WebSocket trade feeds from **Bybit Linear** &amp; **Binance Futures** + MT5 live bridge with zero-loss WAL CRC32<br>• Footprint clusters, Diagonal Imbalance (300%), Options GEX profiling, and 60 FPS Canvas2D/WebGL viewport culling (41/41 test gates passed)<br>`Rust` `Tauri 2` `React 19` `TypeScript` `Tokio` `WebSockets` `Canvas2D` |
+| **[Ftech_learning_online](https://github.com/ngtaiphat1501/Ftech_learning_online)**<br><sub>[Live Web Demo ➔](https://ngtaiphat1501.github.io/projects.html#ftech)</sub> | **Fullstack Developer** (Team of 5)<br>PRJ301 Capstone (Oct – Nov 2026) | • Designed &amp; built the **Admin Dashboard** and **Financial Revenue Analytics** (Chart.js)<br>• Implemented **idempotent checkout generation**, coupon validation, and VNPAY sandbox flow<br>• Packaged runtime with **multi-stage Dockerfile** &amp; Docker Compose linking SQL Server 2022<br>`Java 21` `Jakarta EE 10` `Tomcat` `SQL Server` `Maven` `Docker` |
+| **[StudentManagementSystem](https://github.com/ngtaiphat1501/StudentManagementSystem)**<br><sub>[Live Web Demo ➔](https://ngtaiphat1501.github.io/projects.html#student-ms)</sub> | **Java Developer** (Team Project)<br>Academic System (Mar 2026) | • Structured layered Java OOP architecture (`models`, `services`, `managers`, `menus`, `utils`)<br>• Implemented 4 role-based CLI menus (`Admin`, `Staff`, `Teacher`, `Student`)<br>• Decoupled domain models from binary file serialization (`.dat` file persistence)<br>`Java OOP` `Layered CLI` `File I/O` `Ant` |
 
 <p align="right">
   <sub><i>+ 25 private repositories covering coursework, university quiz tools, and algorithmic benchmarks.</i></sub>
